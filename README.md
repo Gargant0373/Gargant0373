@@ -1,4 +1,4 @@
-Java Developer & Honda Rebel enthusiast
+Java Developer & BMW GS enthusiast
 
 - Calling on Discord as Gargant#7711
 - Publishing plugins on [Spigot](https://www.spigotmc.org/members/gargant0373.576744/)
